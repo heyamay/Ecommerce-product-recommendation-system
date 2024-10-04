@@ -1,4 +1,5 @@
 # Ecommerce Product Recommendation System
+
 [Banner](https://www.edesk.com/wp-content/uploads/2021/03/find-trending-products-sell-ecommerce.png)
 
 Product Recommendation System is a machine learning-based project that provides personalized product recommendations to users based on their browsing and purchase history. The system utilizes collaborative filtering and content-based filtering algorithms to analyze user behavior and generate relevant recommendations. This project aims to improve the overall shopping experience for users, increase sales for e-commerce businesses
@@ -18,7 +19,7 @@ I have used an amazon dataset on user ratings for electronic products, this data
 Objective -
 * Recommend products with highest number of ratings.
 * Target new customers with most popular products.
-* Solve the [Cold Start Problem](https://github.com/Vaibhav67979/Ecommerce-product-recommendation-system/blob/18d7fb2b8feafd117f7c3f9f859255c2e28cfbe4/ColdStartProblem.md)
+* Solve the [Cold Start Problem](https://github.com/heyamay/Ecommerce-product-recommendation-system/blob/main/ColdStartProblem.md)
 
 Outputs -
 * Recommend top 5 products with 50/100 minimum ratings/interactions.
